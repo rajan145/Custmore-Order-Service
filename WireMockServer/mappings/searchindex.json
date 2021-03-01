@@ -1,0 +1,15 @@
+{
+  "request": {
+    "urlPath": "/search/customer/user134",
+    "method" : "GET"
+  },
+  "response":{
+    "status" : 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "jsonBody": {
+      "orderId" : ["198772"]
+    }
+  }
+}

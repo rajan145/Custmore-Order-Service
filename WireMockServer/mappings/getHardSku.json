@@ -1,0 +1,21 @@
+{
+  "request": {
+    "urlPath": "/catalog/hardsku/sku1234",
+    "method" : "GET"
+  },
+  "response":{
+    "status" : 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "jsonBody": {
+      "id": "sku1234",
+      "type": "plan",
+      "name": "AT&T Unlimited Extra",
+      "model": "IPhone XR",
+      "manufacturer": "Apple",
+      "color": "Yellow",
+      "size": "64 GB"
+    }
+  }
+}
